@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAhBAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EmptyView.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmptyViewApp" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAQAQAABAAAAAAA=</HashCode>
+      <FileName>EmptyView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAiAAAiAAAgAAAAgAAQAAAAAAAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmptyViewDoc" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAiAAAgAAAACAgAAAAQAAAAACAAAA=</HashCode>
+      <FileName>EmptyViewDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmptyViewView">
+    <Position X="1.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAAAAAAACgBAgAgAgBAAAgBAEAgAAAAAAAA=</HashCode>
+      <FileName>EmptyViewView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei" Size="9" />
+</ClassDiagram>
